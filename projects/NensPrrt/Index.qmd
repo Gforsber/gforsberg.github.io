@@ -1,0 +1,15 @@
+---
+title: "PRRT treatment for Nen's tumors"
+image: featured.png
+categories:
+  - Research
+about:
+  template: solana
+  image: featured.png
+---
+
+An R/Shiny app that visualizes survival rates based on PRRT treatment for Neuroendocrine Tumors. 
+
+This app was created by my research group at University of Iowas Summer Institue of Biostatistics with the help of Dr.Patrick Breheny
+
+[Check out the app here.](https://ph-ivshiny.iowa.uiowa.edu/pbreheny/isib/) 

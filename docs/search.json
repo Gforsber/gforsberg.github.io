@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gregory Forsberg",
+    "section": "",
+    "text": "This is my Website."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "I’m Gregory Forsberg from Saint Paul, Minnesota. I’m currently a junior at Macalester College, where I’m majoring in Data Science. My interest lies at the intersection of data science and healthcare, where I explore how data-driven insights can transform and improve patient care and medical research."
+  },
+  {
+    "objectID": "mysite/index.html",
+    "href": "mysite/index.html",
+    "title": "mysite",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "mysite/about.html",
+    "href": "mysite/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are my completed projects.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPRRT treatment for Nen’s tumors\n\n\n\nResearch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About me",
+    "section": "Education",
+    "text": "Education\nMacalester College | St. Paul MN  B.A. in Data Science | Sept 2022 - May 2026\n:::"
+  },
+  {
+    "objectID": "projects/NensPrrt/Index.html",
+    "href": "projects/NensPrrt/Index.html",
+    "title": "PRRT treatment for Nen’s tumors",
+    "section": "",
+    "text": "An R/Shiny app that visualizes survival rates based on PRRT treatment for Neuroendocrine Tumors.\nThis app was created by my research group at University of Iowas Summer Institue of Biostatistics with the help of Dr.Patrick Breheny\nCheck out the app here."
+  }
+]
