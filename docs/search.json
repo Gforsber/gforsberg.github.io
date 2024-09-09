@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Gregory Forsberg",
     "section": "",
-    "text": "This is my Website."
+    "text": "Hello, my name is Gregory Forsberg from Saint Paul, Minnesota. I’m currently a junior at Macalester College, majoring in Data Science. My interest lies at the intersection of data science and healthcare, where I explore how data-driven insights can transform and improve patient care and medical research."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About me",
+    "title": "Bio",
     "section": "",
-    "text": "I’m Gregory Forsberg from Saint Paul, Minnesota. I’m currently a junior at Macalester College, where I’m majoring in Data Science. My interest lies at the intersection of data science and healthcare, where I explore how data-driven insights can transform and improve patient care and medical research."
+    "text": "Hello, my name is Gregory Forsberg from Saint Paul, Minnesota. I’m currently a junior at Macalester College, where I’m majoring in Data Science. My interest lies at the intersection of data science and healthcare, where I explore how data-driven insights can transform and improve patient care and medical research.\n\n\nMacalester College | St. Paul MN  B.A. in Data Science | Sept 2022 - May 2026\n\n\n\nUniversity of Iowa Biostatistics Summer Program (ISIB) 2024"
   },
   {
     "objectID": "mysite/index.html",
@@ -37,9 +37,9 @@
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "About me",
-    "section": "Education",
-    "text": "Education\nMacalester College | St. Paul MN  B.A. in Data Science | Sept 2022 - May 2026\n:::"
+    "title": "Bio",
+    "section": "",
+    "text": "Macalester College | St. Paul MN  B.A. in Data Science | Sept 2022 - May 2026"
   },
   {
     "objectID": "projects/NensPrrt/Index.html",
@@ -47,5 +47,54 @@
     "title": "PRRT treatment for Nen’s tumors",
     "section": "",
     "text": "An R/Shiny app that visualizes survival rates based on PRRT treatment for Neuroendocrine Tumors.\nThis app was created by my research group at University of Iowas Summer Institue of Biostatistics with the help of Dr.Patrick Breheny\nCheck out the app here."
+  },
+  {
+    "objectID": "about.html#research-experience",
+    "href": "about.html#research-experience",
+    "title": "Bio",
+    "section": "",
+    "text": "University of Iowa Biostatistics Summer Program (ISIB) 2024"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Gregory Forsberg",
+    "section": "Education",
+    "text": "Education\nMacalester College | St. Paul, MN\nB.A. in Data Science | Sept 2022 - May 2026"
+  },
+  {
+    "objectID": "index.html#research-experience",
+    "href": "index.html#research-experience",
+    "title": "Gregory Forsberg",
+    "section": "",
+    "text": "University of Iowa Biostatistics Summer Program (ISIB) 2024"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Gregory Forsberg",
+    "section": "Experience",
+    "text": "Experience\nUniversity of Iowa Biostatistics Summer Program (ISIB) | 2024"
+  },
+  {
+    "objectID": "index.html#awards",
+    "href": "index.html#awards",
+    "title": "Gregory Forsberg",
+    "section": "Awards",
+    "text": "Awards\nMacalester College Datafest | Best Research Focus | 2024"
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Gregory Forsberg",
+    "section": "",
+    "text": "Hello, my name is Gregory Forsberg from Saint Paul, Minnesota. I’m currently a junior at Macalester College, majoring in Data Science. My interest lies at the intersection of data science and healthcare, where I explore how data-driven insights can transform and improve patient care and medical research."
+  },
+  {
+    "objectID": "index.html#contact-information",
+    "href": "index.html#contact-information",
+    "title": "Gregory Forsberg",
+    "section": "Contact Information",
+    "text": "Contact Information\n\nEmail: GregoryForsbergiii@gmail.com\nGithub: github.com/yourusername"
   }
 ]

@@ -1,8 +1,26 @@
 ---
 title: "Gregory Forsberg"
-format: html
+output: html_document
 ---
 
-This is my Website.
+## Introduction
 
+Hello, my name is Gregory Forsberg from Saint Paul, Minnesota. I'm currently a junior at Macalester College, majoring in Data Science. My interest lies at the intersection of data science and healthcare, where I explore how data-driven insights can transform and improve patient care and medical research.
 
+## Contact Information
+
+- **Email:** [GregoryForsbergiii@gmail.com](mailto:GregoryForsbergiii@gmail.com)
+- **Github:** [github.com/yourusername](https://github.com/yourusername)
+
+## Education
+
+**Macalester College** | St. Paul, MN  
+B.A. in Data Science | Sept 2022 - May 2026
+
+## Experience
+
+**University of Iowa Biostatistics Summer Program (ISIB)** | 2024
+
+## Awards
+
+**Macalester College Datafest** | Best Research Focus | 2024
