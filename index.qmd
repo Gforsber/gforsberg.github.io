@@ -9,18 +9,18 @@ Hello, my name is Gregory Forsberg from Saint Paul, Minnesota. I'm currently a j
 
 ## Contact Information
 
-- **Email:** [GregoryForsbergiii@gmail.com](mailto:GregoryForsbergiii@gmail.com)
-- **Github:** [github.com/yourusername](https://github.com/yourusername)
+-   **Email:** [GregoryForsbergiii\@gmail.com](mailto:GregoryForsbergiii@gmail.com)
+-   **Github:** <https://github.com/Gforsber>
 
 ## Education
 
-**Macalester College** | St. Paul, MN  
-B.A. in Data Science | Sept 2022 - May 2026
+**Macalester College** \| St. Paul, MN\
+B.A. in Data Science \| Sept 2022 - May 2026
 
 ## Experience
 
-**University of Iowa Biostatistics Summer Program (ISIB)** | 2024
+**University of Iowa Biostatistics Summer Program (ISIB)** \| 2024
 
 ## Awards
 
-**Macalester College Datafest** | Best Research Focus | 2024
+**Macalester College Datafest** \| Best Research Focus \| 2024

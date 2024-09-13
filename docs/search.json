@@ -32,7 +32,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here are my completed projects.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPRRT treatment for Nen’s tumors\n\n\n\nResearch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Here are my completed projects.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nStatistical analysis of PRRT treatment for Nen’s tumors\n\n\n\nResearch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html#education",
@@ -44,7 +44,7 @@
   {
     "objectID": "projects/NensPrrt/Index.html",
     "href": "projects/NensPrrt/Index.html",
-    "title": "PRRT treatment for Nen’s tumors",
+    "title": "Statistical analysis of PRRT treatment for Nen’s tumors",
     "section": "",
     "text": "An R/Shiny app that visualizes survival rates based on PRRT treatment for Neuroendocrine Tumors.\nThis app was created by my research group at University of Iowas Summer Institue of Biostatistics with the help of Dr.Patrick Breheny\nCheck out the app here."
   },
@@ -95,6 +95,6 @@
     "href": "index.html#contact-information",
     "title": "Gregory Forsberg",
     "section": "Contact Information",
-    "text": "Contact Information\n\nEmail: GregoryForsbergiii@gmail.com\nGithub: github.com/yourusername"
+    "text": "Contact Information\n\nEmail: GregoryForsbergiii@gmail.com\nGithub: https://github.com/Gforsber"
   }
 ]
