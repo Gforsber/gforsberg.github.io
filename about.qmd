@@ -2,18 +2,14 @@
 title: "Bio"
 ---
 
-:::{#intro-heading}
-
+::: {#intro-heading}
 Hello, my name is Gregory Forsberg from Saint Paul, Minnesota. I'm currently a junior at Macalester College, where I'm majoring in Data Science. My interest lies at the intersection of data science and healthcare, where I explore how data-driven insights can transform and improve patient care and medical research.
 
 ## Education
 
-Macalester College | St. Paul MN <br>
-B.A. in Data Science | Sept 2022 - May 2026
+Macalester College \| St. Paul MN <br> B.A. in Data Science \| Sept 2022 - May 2026
 
-## Research Experience 
+## Research Experience
 
 University of Iowa Biostatistics Summer Program (ISIB) 2024
-
 :::
-
