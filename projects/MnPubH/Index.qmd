@@ -1,9 +1,11 @@
 ---
 title: "Minnesota Public Health Overview"
+image: featured.png
 categories:
   - Project
 about:
   template: solana
+  image: featured.png
 ---
 
 An R/Shiny app that visualizes Minnesota Public Health concerning water quality and demographics.
