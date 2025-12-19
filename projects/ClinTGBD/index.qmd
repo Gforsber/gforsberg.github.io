@@ -1,5 +1,5 @@
 ---
-title: "Clinical Trials vs Global Burden of Diease"
+title: "Clinical Trials vs Global Burden of Disease"
 image: featured.png
 categories:
   - Project
@@ -23,6 +23,6 @@ Data sources:
 
 Team Collaborators: 
 
-Khalessi (Macalester College 25'), Scarlett (Macalester College 26')
+Khaleesi (Macalester College 25'), Scarlett (Macalester College 26')
 
 
