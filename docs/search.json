@@ -32,7 +32,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here are my completed projects.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nStatistical analysis of PRRT treatment for Nen’s tumors\n\n\n\nResearch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Here are my completed projects.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nStatistical analysis of PRRT treatment for Nen’s tumors\n\n\n\nResearch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMinnesota Public Health Overview\n\n\n\nProject\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClinical Trials vs Global Burden of Diease\n\n\n\nProject\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html#education",
@@ -96,5 +96,12 @@
     "title": "Gregory Forsberg",
     "section": "Contact Information",
     "text": "Contact Information\n\nEmail: GregoryForsbergiii@gmail.com\nGithub: https://github.com/Gforsber"
+  },
+  {
+    "objectID": "projects/MnPubH/Index.html",
+    "href": "projects/MnPubH/Index.html",
+    "title": "Minnesota Public Health Overview",
+    "section": "",
+    "text": "An R/Shiny app that visualizes Minnesota Public Health concerning water quality and demographics.\nThis app was created for my intermediate data science class in collaboration with 3 other classmates.\nCheck out the app here."
   }
 ]
