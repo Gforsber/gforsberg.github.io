@@ -17,7 +17,7 @@ Data sources:
 1) Global Burden of Disease Study (GBD)
 
 2) ClinicalTrials.gov
-    - use of a large language model (LLM) to standardize trial types based on study titles.
+    - use of a LLM (OpenAI-4.0-mini) to standardize trial types based on study titles.
   
 3) WHO International Clinical Trials Registry Platform (ICTRP)
 
