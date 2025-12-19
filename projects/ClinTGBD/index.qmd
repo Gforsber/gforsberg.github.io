@@ -8,16 +8,21 @@ about:
   image: featured.png
 ---
 
+Overview:
+
 Our focus for this final project is centered around looking into how the global burden of disease is being addressed by clinical trials around the world. With cancer being a world-wide health issue, the estimated number of cancer cases world-wide is expected to grow to around 35 million by 2050. Which such a high number, it is paramount to human health that cancer research continues to discover cancer treatments for all types. Our research questions aim to directly address this issues of, How does clinical research around the world address known disease burdens? In other words, we are asking, how do the number/type of clinical trials address the current need for treatments among known diseases that effect many people. 
 
-Data sources
+Data sources:
+
 1) Global Burden of Disease Study (GBD)
+
 2) ClinicalTrials.gov
-  - use of a large language model (LLM) to standardize trial types based on study titles.
+    - use of a large language model (LLM) to standardize trial types based on study titles.
+  
 3) WHO International Clinical Trials Registry Platform (ICTRP)
 
-Team Collaborators 
-Khalessi Macalester College 25'
-Scarlett Macalester College 26'
+Team Collaborators: 
+
+Khalessi (Macalester College 25'), Scarlett (Macalester College 26')
 
 
