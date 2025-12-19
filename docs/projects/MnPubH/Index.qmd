@@ -1,0 +1,15 @@
+---
+title: "Minnesota Public Health Overview"
+image: featured.png
+categories:
+  - Project
+about:
+  template: solana
+  image: featured.png
+---
+
+An R/Shiny app that visualizes Minnesota Public Health concerning water quality and demographics.
+
+This app was created for my intermediate data science class in collaboration with 3 other classmates.
+
+[Check out the app here.](https://lizkellydoan.shinyapps.io/mn_water_quality/)
