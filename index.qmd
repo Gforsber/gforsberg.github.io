@@ -11,7 +11,7 @@ Hello, my name is Gregory Forsberg from Saint Paul, Minnesota. I'm currently a j
 
 -   **Email:** [GregoryForsbergiii\@gmail.com](mailto:GregoryForsbergiii@gmail.com)
 -   **Github:** <https://github.com/Gforsber>
--   **Linkedin:** <www.linkedin.com/in/gregory-forsberg>
+-   **Linkedin:** <https://www.linkedin.com/in/gregory-forsberg>
 
 ## Education
 
@@ -20,6 +20,7 @@ Hello, my name is Gregory Forsberg from Saint Paul, Minnesota. I'm currently a j
 September 2022 – May 2026
 
 **Danish Institute of Study Abroad (DIS)** — Copenhagen, Denmark 
+January - May 2025
 
 ## Technical Skills
 

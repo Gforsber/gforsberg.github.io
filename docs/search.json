@@ -60,7 +60,7 @@
     "href": "index.html#education",
     "title": "Gregory Forsberg",
     "section": "Education",
-    "text": "Education\nMacalester College | St. Paul, MN\nB.A. in Data Science | Sept 2022 - May 2026"
+    "text": "Education\nMacalester College — St. Paul, MN\nB.A. in Data Science, Minor in Biology\nSeptember 2022 – May 2026\nDanish Institute of Study Abroad (DIS) — Copenhagen, Denmark January - May 2025"
   },
   {
     "objectID": "index.html#research-experience",
@@ -95,7 +95,7 @@
     "href": "index.html#contact-information",
     "title": "Gregory Forsberg",
     "section": "Contact Information",
-    "text": "Contact Information\n\nEmail: GregoryForsbergiii@gmail.com\nGithub: https://github.com/Gforsber"
+    "text": "Contact Information\n\nEmail: GregoryForsbergiii@gmail.com\nGithub: https://github.com/Gforsber\nLinkedin: https://www.linkedin.com/in/gregory-forsberg"
   },
   {
     "objectID": "projects/MnPubH/Index.html",
@@ -131,5 +131,19 @@
     "title": "Clinical Trials vs Global Burden of Disease",
     "section": "Team collaborators",
     "text": "Team collaborators\n\nKhaleesi (Macalester College ’25)\nScarlett (Macalester College ’26)"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Gregory Forsberg",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nProgramming: R, Python, SQL\n\nData Analysis: Regression, survey analysis, clustering, fairness analysis\n\nVisualization: ggplot2, Plotly, R Markdown, Shiny\n\nTools: Git, GitHub, Quarto, LaTeX"
+  },
+  {
+    "objectID": "index.html#active-projects",
+    "href": "index.html#active-projects",
+    "title": "Gregory Forsberg",
+    "section": "Active Projects",
+    "text": "Active Projects\nEmergency Department Wait Times & Equity Analysis\nData Science Honors Project\n- Analyzed national emergency department wait time data using NHAMCS and CMS datasets\n- Apply queueing theory, regression modeling, and fairness analysis to examine disparities in care\nClinical Trials vs. Global Burden of Disease\n- Compared global cancer clinical trial distribution with disease burden (DALYs)\n- Integrated data from ClinicalTrials.gov and the Global Burden of Disease Study\n- Identified systematic underrepresentation of high-burden cancers and low-SDI countries"
   }
 ]
