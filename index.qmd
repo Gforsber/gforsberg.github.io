@@ -11,11 +11,22 @@ Hello, my name is Gregory Forsberg from Saint Paul, Minnesota. I'm currently a j
 
 -   **Email:** [GregoryForsbergiii\@gmail.com](mailto:GregoryForsbergiii@gmail.com)
 -   **Github:** <https://github.com/Gforsber>
+-   **Linkedin:** <www.linkedin.com/in/gregory-forsberg>
 
 ## Education
 
-**Macalester College** \| St. Paul, MN\
-B.A. in Data Science \| Sept 2022 - May 2026
+**Macalester College** — St. Paul, MN  
+*B.A. in Data Science, Minor in Biology*  
+September 2022 – May 2026
+
+**Danish Institute of Study Abroad (DIS)** — Copenhagen, Denmark 
+
+## Technical Skills
+
+- **Programming:** R, Python, SQL  
+- **Data Analysis:** Regression, survey analysis, clustering, fairness analysis  
+- **Visualization:** ggplot2, Plotly, R Markdown, Shiny  
+- **Tools:** Git, GitHub, Quarto, LaTeX
 
 ## Experience
 
@@ -24,3 +35,15 @@ B.A. in Data Science \| Sept 2022 - May 2026
 ## Awards
 
 **Macalester College Datafest** \| Best Research Focus \| 2024
+
+## Active Projects
+
+**Emergency Department Wait Times & Equity Analysis**  
+Data Science Honors Project  
+- Analyzed national emergency department wait time data using NHAMCS and CMS datasets  
+- Apply queueing theory, regression modeling, and fairness analysis to examine disparities in care  
+
+**Clinical Trials vs. Global Burden of Disease**  
+- Compared global cancer clinical trial distribution with disease burden (DALYs)  
+- Integrated data from ClinicalTrials.gov and the Global Burden of Disease Study  
+- Identified systematic underrepresentation of high-burden cancers and low-SDI countries
