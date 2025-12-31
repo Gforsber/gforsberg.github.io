@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Gregory Forsberg",
     "section": "",
-    "text": "Hello, my name is Gregory Forsberg from Saint Paul, Minnesota. I’m currently a junior at Macalester College, majoring in Data Science. My interest lies at the intersection of data science and healthcare, where I explore how data-driven insights can transform and improve patient care and medical research."
+    "text": "Hello, my name is Gregory Forsberg from Saint Paul, Minnesota. I’m currently a Senior at Macalester College, majoring in Data Science, minoring in biology. My interest lies at the intersection of data science and healthcare, where I explore how data-driven insights can transform and improve patient care and medical research."
   },
   {
     "objectID": "about.html",
@@ -88,7 +88,7 @@
     "href": "index.html#introduction",
     "title": "Gregory Forsberg",
     "section": "",
-    "text": "Hello, my name is Gregory Forsberg from Saint Paul, Minnesota. I’m currently a junior at Macalester College, majoring in Data Science. My interest lies at the intersection of data science and healthcare, where I explore how data-driven insights can transform and improve patient care and medical research."
+    "text": "Hello, my name is Gregory Forsberg from Saint Paul, Minnesota. I’m currently a Senior at Macalester College, majoring in Data Science, minoring in biology. My interest lies at the intersection of data science and healthcare, where I explore how data-driven insights can transform and improve patient care and medical research."
   },
   {
     "objectID": "index.html#contact-information",
@@ -144,7 +144,7 @@
     "href": "index.html#active-projects",
     "title": "Gregory Forsberg",
     "section": "Active Projects",
-    "text": "Active Projects\nEmergency Department Wait Times & Equity Analysis\nData Science Honors Project\n- Analyzed national emergency department wait time data using NHAMCS and CMS datasets\n- Apply queueing theory, regression modeling, and fairness analysis to examine disparities in care\nClinical Trials vs. Global Burden of Disease\n- Compared global cancer clinical trial distribution with disease burden (DALYs)\n- Integrated data from ClinicalTrials.gov and the Global Burden of Disease Study\n- Identified systematic underrepresentation of high-burden cancers and low-SDI countries"
+    "text": "Active Projects\nEmergency Department Wait Times & Equity Analysis\nData Science Honors Project\n- Analyzed national emergency department wait time data using NHAMCS and CMS datasets\n- Apply queueing theory, regression modeling, and fairness analysis to examine disparities in care"
   },
   {
     "objectID": "projects/MDH/Index.html",
@@ -179,7 +179,7 @@
     "href": "projects/MDH/Index.html#outputs",
     "title": "MDH Chronic condition and Social Determinants of Health",
     "section": "Outputs",
-    "text": "Outputs\n\nSummary tables and figures\nReproducible analysis pipeline\n\nExample output"
+    "text": "Outputs\n\nSummary tables and figures\nReproducible analysis pipeline\n\nExample:"
   },
   {
     "objectID": "projects/MDH/Index.html#team-collaborators",
