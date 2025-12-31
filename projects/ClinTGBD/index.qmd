@@ -21,6 +21,14 @@ Our research question is: **How does clinical research around the world address 
    - Used an LLM (OpenAI-4.0-mini) to standardize trial types based on study titles.
 3. **WHO International Clinical Trials Registry Platform (ICTRP)**
 
+## Output
+
+Example:
+
+```{r, echo=FALSE}
+knitr::include_graphics("featured.png")
+```
+
 ## Team collaborators
 
 - Khaleesi (Macalester College ’25)

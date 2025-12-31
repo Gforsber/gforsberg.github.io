@@ -32,7 +32,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here are my completed projects.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nStatistical analysis of PRRT treatment for Nen’s tumors\n\n\n\nResearch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMinnesota Public Health Overview\n\n\n\nProject\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClinical Trials vs Global Burden of Disease\n\n\n\nProject\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Here are my completed projects.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nStatistical analysis of PRRT treatment for Nen’s tumors\n\n\n\nResearch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMinnesota Public Health Overview\n\n\n\nProject\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMDH Chronic condition and Social Determinants of Health\n\n\n\nResearch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClinical Trials vs Global Burden of Disease\n\n\n\nProject\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html#education",
@@ -60,7 +60,7 @@
     "href": "index.html#education",
     "title": "Gregory Forsberg",
     "section": "Education",
-    "text": "Education\nMacalester College — St. Paul, MN\nB.A. in Data Science, Minor in Biology\nSeptember 2022 – May 2026\nDanish Institute of Study Abroad (DIS) — Copenhagen, Denmark January - May 2025"
+    "text": "Education\nMacalester College — St. Paul, MN\nB.A. in Data Science, Minor in Biology: September 2022 – May 2026\nDanish Institute of Study Abroad (DIS) — Copenhagen, Denmark: January - May 2025"
   },
   {
     "objectID": "index.html#research-experience",
@@ -145,5 +145,54 @@
     "title": "Gregory Forsberg",
     "section": "Active Projects",
     "text": "Active Projects\nEmergency Department Wait Times & Equity Analysis\nData Science Honors Project\n- Analyzed national emergency department wait time data using NHAMCS and CMS datasets\n- Apply queueing theory, regression modeling, and fairness analysis to examine disparities in care\nClinical Trials vs. Global Burden of Disease\n- Compared global cancer clinical trial distribution with disease burden (DALYs)\n- Integrated data from ClinicalTrials.gov and the Global Burden of Disease Study\n- Identified systematic underrepresentation of high-burden cancers and low-SDI countries"
+  },
+  {
+    "objectID": "projects/MDH/Index.html",
+    "href": "projects/MDH/Index.html",
+    "title": "MDH Chronic condition and Social Determinants of Health",
+    "section": "",
+    "text": "In collaboration with the Minnesota Department of Health (MDH) and Prof. Heggesth’s STAT 202 course, this project investigates relationships between social determinants of health (SDOH) and chronic conditions among adults in Minnesota. Using data from the Behavioral Risk Factor Surveillance System (BRFSS), we applied survey-weighted methods to produce population-representative estimates and compare outcomes across demographic and socioeconomic groups.\nThe goal of the analysis is to highlight which SDOH factors (e.g., income, education, access to care, and related measures) are most strongly associated with chronic condition prevalence, and to translate these results into clear, stakeholder-friendly visuals and summaries."
+  },
+  {
+    "objectID": "projects/MDH/Index.html#overview",
+    "href": "projects/MDH/Index.html#overview",
+    "title": "MDH Chronic condition and Social Determinants of Health",
+    "section": "",
+    "text": "In collaboration with the Minnesota Department of Health (MDH) and Prof. Heggesth’s STAT 202 course, this project investigates relationships between social determinants of health (SDOH) and chronic conditions among adults in Minnesota. Using data from the Behavioral Risk Factor Surveillance System (BRFSS), we applied survey-weighted methods to produce population-representative estimates and compare outcomes across demographic and socioeconomic groups.\nThe goal of the analysis is to highlight which SDOH factors (e.g., income, education, access to care, and related measures) are most strongly associated with chronic condition prevalence, and to translate these results into clear, stakeholder-friendly visuals and summaries."
+  },
+  {
+    "objectID": "projects/MDH/Index.html#data",
+    "href": "projects/MDH/Index.html#data",
+    "title": "MDH Chronic condition and Social Determinants of Health",
+    "section": "Data",
+    "text": "Data\n\nBRFSS (Minnesota), survey-weighted"
+  },
+  {
+    "objectID": "projects/MDH/Index.html#methods",
+    "href": "projects/MDH/Index.html#methods",
+    "title": "MDH Chronic condition and Social Determinants of Health",
+    "section": "Methods",
+    "text": "Methods\n\nSurvey design + weights\nGroup comparisons\nVisualization of disparities"
+  },
+  {
+    "objectID": "projects/MDH/Index.html#outputs",
+    "href": "projects/MDH/Index.html#outputs",
+    "title": "MDH Chronic condition and Social Determinants of Health",
+    "section": "Outputs",
+    "text": "Outputs\n\nSummary tables and figures\nReproducible analysis pipeline\n\nExample output"
+  },
+  {
+    "objectID": "projects/MDH/Index.html#team-collaborators",
+    "href": "projects/MDH/Index.html#team-collaborators",
+    "title": "MDH Chronic condition and Social Determinants of Health",
+    "section": "Team collaborators",
+    "text": "Team collaborators\n\nJonah (Macalester 27’)\nElliot (Macalester 27’)\nTu (Macalester 26’)\nGabriela (Macalester 26’)\nAdrian (Macalester 26’)"
+  },
+  {
+    "objectID": "projects/ClinTGBD/Index.html#output",
+    "href": "projects/ClinTGBD/Index.html#output",
+    "title": "Clinical Trials vs Global Burden of Disease",
+    "section": "Output",
+    "text": "Output\nExample:"
   }
 ]
